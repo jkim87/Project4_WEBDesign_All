@@ -1,0 +1,184 @@
+
+.Week1{
+  font-family: 'Staatliches', cursive;
+  font-size: 25px;
+  position: absolute;
+  left:150px;
+  top:50px;
+  width: 70%;
+}
+
+h1{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 15px;
+  position: absolute;
+  left:150px;
+  top:130px;
+  width: 30%;
+  margin-top: 30px;
+}
+
+.Week2{
+  font-family: 'Staatliches', cursive;
+  font-size: 25px;
+  position: relative;
+  left:140px;
+  top:550px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 70%;
+}
+h2{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 15px;
+  position: absolute;
+  left:150px;
+  top:670px;
+  width: 30%;
+  margin-top: 30px;
+}
+.Week3{
+  font-family: 'Staatliches', cursive;
+  font-size: 25px;
+  position: relative;
+  left:140px;
+  top:1000px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 70%;
+}
+
+h3{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 15px;
+  position: absolute;
+  left:150px;
+  top:1220px;
+  width: 30%;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+.Week4{
+  font-family: 'Staatliches', cursive;
+  font-size: 25px;
+  position: relative;
+  left:140px;
+  top:1500px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 70%;
+}
+
+h4{
+  font-family: 'Heebo', sans-serif;, sans-serif;
+  font-size: 15px;
+  position: absolute;
+  left:150px;
+  top:1820px;
+  width: 30%;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+.back{
+  padding-top: 40px;
+  padding-left: 10px;
+}
+
+/* //I-PHONE X  Safari/// */
+@media (max-width: 375px) {
+
+  .Week1{
+    font-family: 'Staatliches', cursive;
+    font-size: 16pt;
+    position: absolute;
+    left:20%;
+    top:50px;
+    width:60%;
+  }
+
+  h1{
+    font-family: 'Heebo', sans-serif;
+    font-size: 10pt;
+    position: absolute;
+    left:20%;
+    top:130px;
+    width: 60%;
+    margin-top: 30px;
+  }
+
+  .Week2{
+    font-family: 'Staatliches', cursive;
+    font-size: 16pt;
+    position: relative;
+    left:18%;
+    top:660px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 70%;
+  }
+  h2{
+    font-family: 'Heebo', sans-serif;
+    font-size: 10pt;
+    position: absolute;
+    left:20%;
+    top:880px;
+    width: 60%;
+    margin-top: 30px;
+  }
+  .Week3{
+    font-family: 'Staatliches', cursive;
+    font-size: 16pt;
+    position: relative;
+    left:18%;
+    top:1340px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 56%;
+  }
+
+  h3{
+    font-family: 'Heebo', sans-serif;
+    font-size: 10pt;
+    position: absolute;
+    left:20%;
+    top:1700px;
+    width: 60%;
+    margin-top: 30px;
+    padding-top: 30px;
+  }
+  .Week4{
+    font-size: 16pt;
+    position: relative;
+    left:18%;
+    top:2100px;
+  }
+
+  h4{
+    font-family: 'Heebo', sans-serif;
+    font-size: 10pt;
+    position: absolute;
+    left:20%;
+    top:2550px;
+    width: 60%;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom:  100px;
+  }
+
+
+  .footer {
+  padding-bottom:  200px;
+  }
+  .back{
+    padding-top: 40px;
+    padding-left: 10px;
+  }

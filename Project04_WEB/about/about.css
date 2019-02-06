@@ -1,0 +1,65 @@
+/* //about// */
+
+
+.back{
+  padding-top: 40px;
+  padding-left: 10px;
+}
+
+h2{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+  position: absolute;
+  left:150px;
+  bottom:250px;
+}
+
+h4{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+  position: absolute;
+  left:150px;
+  bottom:210px;
+}
+
+h3{
+  font-family: 'Staatliches', cursive;
+  font-size: 50px;
+  position: absolute;
+  left:150px;
+  top:50px;
+}
+
+a{
+  font-family: 'Rajdhani', sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+@media (max-width: 375px){
+  h3{
+    font-size: 25px;
+    position: absolute;
+    left:10%;
+    Top:10%;
+  }
+
+  h2{
+    font-family: font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    width: 70%;
+    position: absolute;
+    left:10%;
+    bottom:60%;
+  }
+
+  h4{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    left:10%;
+    bottom:50%;
+    width: 50%
+  }
+}
